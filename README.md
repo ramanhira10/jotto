@@ -72,3 +72,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### `npm install --save-dev enzyme @wojtekmaj/enzyme-adapter-react-17`
 
 The above command is used to install enzyme and enzyme adapter. The adapter is the unofficial one because there is no official adapter till today.
+
+### `npm install --save prop-types`
+
+The above command is used to install prop-types.
+
+npm package is available on [https://www.npmjs.com/package/prop-types](https://www.npmjs.com/package/prop-types)
+
+github link is [https://github.com/facebook/prop-types](https://github.com/facebook/prop-types)
+
+### `npm install --save-dev check-prop-types`
+
+The above command is used to insall check-prop-types
+
+npm package is available on [https://www.npmjs.com/package/check-prop-types](https://www.npmjs.com/package/check-prop-types)
