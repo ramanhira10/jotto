@@ -86,3 +86,13 @@ github link is [https://github.com/facebook/prop-types](https://github.com/faceb
 The above command is used to insall check-prop-types
 
 npm package is available on [https://www.npmjs.com/package/check-prop-types](https://www.npmjs.com/package/check-prop-types)
+
+### `npm install axios`
+
+npm package is available on [https://www.npmjs.com/package/axios](https://www.npmjs.com/package/axios)
+
+### `npm install --save-dev moxios`
+
+The above command is used to install moxios
+
+npm package is available on [https://www.npmjs.com/package/moxios](https://www.npmjs.com/package/moxios)
