@@ -96,3 +96,8 @@ npm package is available on [https://www.npmjs.com/package/axios](https://www.np
 The above command is used to install moxios
 
 npm package is available on [https://www.npmjs.com/package/moxios](https://www.npmjs.com/package/moxios)
+
+### `npm install --save redux react-redux`
+
+The above command is used to install redux and react-redux modules.
+npm package is available on [https://www.npmjs.com/package/redux](https://www.npmjs.com/package/redux)
